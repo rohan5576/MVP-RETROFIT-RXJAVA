@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvNotes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+    <ImageView
+        android:id="@+id/fabAddNote"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginBottom="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:src="@drawable/ic_floating"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:id="@+id/tvNoData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="No Notes Yet,Add New One!!"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20dp" />
+
+</RelativeLayout>

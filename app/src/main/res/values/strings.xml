@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Job2Go</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+
+    <string name="email_id">Email</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="verify_password">Verify Password</string>
+    <string name="company_name">Company:</string>
+    <string name="description">Description:</string>
+    <string name="apply_here">Apply Here: </string>
+    <string name="job"><html>Job: </html></string>
+    <string name="location">Location:</string>
+    <string name="button_details">Details</string>
+    <string name="experience">Experience:</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="job_listing">Jobs Listing</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="logout">Logout</string>
+    <string name="add_post">Add Post</string>
+    <string name="job_post">Job Listing</string>
+    <string name="plz_wait">Please wait</string>
+
+    <string name="username">username</string>
+    <string name="verify_password_">verify_password</string>
+    <string name="status">status</string>
+    <string name="message">msg</string>
+    <string name="something_wrong_error">Something went wrong,Please try again!!!</string>
+    <string name="timeout_error">Oops!!! Connection Timeout.</string>
+
+
+    <string name="base_url">http://18.219.146.55/JobApp/index.php/</string>
+    <string name="signUp">User/signUp</string>
+    <string name="login_url">User/login</string>
+    <string name="getJobTitleList">Job/getJobTitleList</string>
+    <string name="getJobLocList">Job/getJobLocList</string>
+    <string name="login">Login</string>
+    <string name="INTERNET_LOST">Lost Internet Connection!!!</string>
+
+</resources>
